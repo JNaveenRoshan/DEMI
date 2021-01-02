@@ -2,7 +2,7 @@
 ![alt text](https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg?raw=true)
 
 
-<img src=""https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg"" data-canonical-src="https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg" width="300" height="300" />
+<img src="https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg" data-canonical-src="https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg" width="300" height="300" />
 
 Pytorch based Chatbot trained on Movie Dialogues
 
