@@ -14,3 +14,5 @@ Demi_old_version.ipynb is the file that contains the code which was written 1 ye
 The SnapShots contains image files that are the final product of this project
 
 ### Web and Img Files
+
+This Folder contains HTML,CSS (The Front end) and the model was created in Abode Fuse and Animation was rigged in Abode Maximo and converted into gif and was embedded in the html files using JS 
