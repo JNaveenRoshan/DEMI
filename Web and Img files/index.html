@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chat Bot User Interface</title>
+         <link rel="stylesheet" type="text/css" href="style.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.8.1/firebase.js"></script>
+        <script type="text/javascript" src="credentials.js"></script>
+
+    </head>
+    <style>
+        .im{
+            width: 610px;
+        }
+        .opo{
+            display: inline;
+        }
+    </style>
+    <body align='center'>
+        
+        <table align=''>
+            <tr><td>
+        <img src="ezgif.com-video-to-gif.gif" height="800" width="600">
+    </td><td>
+            
+        <div class="headerBar">
+                <div class="user-photo"><img src="Images/demi1.jpg"></div>
+                <p class="title">Demi</p>
+        </div>
+        
+        <div class="chatbox col">
+
+            <div class="chatlogs">
+            
+                <div class="chat friend">
+                    <div class="user-photo"><img src="Images/demi1.jpg"></div>
+                    <p class="chat-message">Hello!</p>
+                </div>
+
+                <div class="chat friend" id="loadingGif" style="display: none;">
+                    <div class="user-photo"><img src="Images/demi1.jpg"></div>
+                    <div class="gif"><img src="Images/loading.gif"></div>
+                </div>
+
+            </div>            
+        </div>
+        <div class="chat-form">
+            <div id="inputDiv">
+                <div id="buttonDiv"></div>
+                <textarea class="input" placeholder="Message" rows="1" data-min-rows='1'></textarea>
+            </div>
+            <div id="chat-form-buttons">
+                <input type ="image"id="rec" src="Images/microphone.png">
+                <input type="image" src="Images/keyboard.png" id="switchInputType"/>
+            </div>
+        </div>
+    </td> 
+<td> <img src="h.gif" height="800" width="600"></td></tr></table>
+    
+    
+        
+
+        <script type="text/javascript" src="index.js"></script>  
+        <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.8.1/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.1/firebase-database.js"></script>
+  
+    </body>
+
+</html>
