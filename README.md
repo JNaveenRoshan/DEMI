@@ -1,6 +1,8 @@
 # DEMI
-![alt text](https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg?raw=true)=250x250
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg?raw=true" width="200" height="400" />
+![alt text](https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg?raw=true)
+
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/JNaveenRoshan/DEMI/blob/main/Web%20and%20Img%20files/demi1.jpg?raw=true" width="300" height="300" />
 
 Pytorch based Chatbot trained on Movie Dialogues
 
